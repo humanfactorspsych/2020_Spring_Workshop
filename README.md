@@ -6,9 +6,10 @@ Hoyoung Maeng () <br>
 Inju Lee (ijlee199716@gmail.com, [github](https://github.com/Inju0716)) <br>
 Jae Eun Park () <br>
 
-### About this workshop 
-2020. 03 - 06. 
-Thur / 1-2~3 pm. 
+### About this workshop
+
+2020. 03 - 06. <br>
+Thur / 1-2~3 pm. <br>
 Human Factors Psychology Lab, SNU, Seoul, Korea
 
 ### List of contents
