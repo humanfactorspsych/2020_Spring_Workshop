@@ -28,10 +28,10 @@ Organizer : Yoon Kyung Lee
 
 [link](http://cs231n.stanford.edu/)
 
-#### 3. 
+#### 3. Machine Learning
 Organizer : Whani Kim
 
-[link]()
+[link](https://www.coursera.org/learn/machine-learning)
 
 #### 4. 
 Organizer : Hoyoung Maeng, Jae Eun Park
