@@ -14,7 +14,9 @@ Human Factors Psychology Lab, SNU, Seoul, Korea
 
 ### List of contents
 
-## I. Methodology Review
+## I. Journal Club
+
+## II. Methodology Study
 
 #### 1. Languages and Information
 Organizer : Yoon Kyung Lee 
@@ -41,5 +43,3 @@ Organizer : Inju Lee
 
 [link](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
 
-
-## II. Literature Review
