@@ -16,7 +16,7 @@ Human Factors Psychology Lab, SNU, Seoul, Korea
 
 ## I. Journal Club
 
-## II. Methodology Study
+## II. Study
 
 #### 1. Languages and Information
 Organizer : Yoon Kyung Lee 
