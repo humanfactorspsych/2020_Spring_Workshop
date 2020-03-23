@@ -43,10 +43,10 @@ Organizer : Whani Kim
 
 [link](https://www.coursera.org/learn/machine-learning)
 
-#### 4. 
+#### 4. Programming for Everybody (Getting Started with Python)
 Organizer : Hoyoung Maeng, Jae Eun Park
 
-[link]()
+[link](https://www.coursera.org/learn/python?)
 
 #### 5. Feature Engineering for Maching Learning 
 Organizer : Inju Lee
