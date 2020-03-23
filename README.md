@@ -4,7 +4,7 @@ Yoon Kyung Lee (yoonlee78@snu.ac.kr, [github](https://github.com/yoonlee78)) <br
 Whani Kim (cojo2018@snu.ac.kr, [github](https://github.com/domeis))<br>
 Hoyoung Maeng () <br>
 Inju Lee (ijlee199716@gmail.com, [github](https://github.com/Inju0716)) <br>
-Jae Eun Park () <br>
+Jae Eun Park (iwri2089@gmail.com, [github](https://github.com/JPark11)) <br>
 
 ### About this workshop
 
