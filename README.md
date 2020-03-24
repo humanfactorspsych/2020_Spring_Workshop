@@ -26,7 +26,7 @@ Human Factors Psychology Lab, SNU, Seoul, Korea
 #### 3. Theory of Mind: AI
 - Ong, D., Soh, H., Zaki, J., & Goodman, N. (2019). Applying probabilistic programming to affective computing. IEEE Transactions on Affective Computing. (Presenter: Inju Lee)
 
-#### 4. 
+#### 4. Human-Robot Interaction
 - Hortensius, R., Hekele, F., & Cross, E. S. (2018). The perception of emotion in artificial agents. IEEE Transactions on Cognitive and Developmental Systems, 10(4), 852-864. (Presenter: Whani Kim)
 
 ## II. Study
