@@ -9,11 +9,11 @@
 - Zadeh, A., Chan, M., Liang, P. P., Tong, E., & Morency, L. P. (2019). Social-iq: A question answering benchmark for artificial social intelligence. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 8807-8817). <br> Presenter: Jae Eun Park
 
 #### 3. Theory of Mind: AI
-- Ong, D., Soh, H., Zaki, J., & Goodman, N. (2019). Applying probabilistic programming to affective computing. IEEE Transactions on Affective Computing. 
+- Ong, D., Soh, H., Zaki, J., & Goodman, N. (2019). Applying probabilistic programming to affective computing. IEEE Transactions on Affective Computing. <br>
 Presenter: Inju Lee
 
 #### 4. Human-Robot Interaction
-- Hortensius, R., Hekele, F., & Cross, E. S. (2018). The perception of emotion in artificial agents. IEEE Transactions on Cognitive and Developmental Systems, 10(4), 852-864. 
+- Hortensius, R., Hekele, F., & Cross, E. S. (2018). The perception of emotion in artificial agents. IEEE Transactions on Cognitive and Developmental Systems, 10(4), 852-864. <br>
 Presenter: Whani Kim
 
 ---
