@@ -43,8 +43,8 @@ Presenter : Hoyoung Maeng, Jae Eun Park
 
 [link](https://www.coursera.org/learn/python?)
 
+<!--
 #### 5. Feature Engineering for Maching Learning 
 Presenter : Inju Lee
-
 [link](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
-
+-->
